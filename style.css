@@ -1,0 +1,30 @@
+@font-face{
+    font-family: "MyFont";
+    src: url("Fontebi/bitstream-iowan-old-style-bold-bt-586c371d8d669.ttf")
+}
+
+@font-face{
+    font-family: "MyFont1";
+    src: url("Fontebi/OldStandardTT-Regular.ttf")
+}
+
+
+.box1{
+    font-family: "MyFont";
+    font-size: 20px;
+}
+
+.box2{
+    font-family: "MyFont1";
+    font-size: 16px;
+    Width: 1260px;
+    Height: 46px;
+}
+
+.box3{
+    font-family: "MyFont1";
+    font-size: 16px;
+    Width: 1260px;
+    Height: 46px;
+    text-align:justify;
+}
